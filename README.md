@@ -16,7 +16,7 @@ I'm Sanjay, a DevOps enthusiast passionate about automating and optimizing softw
 
 ## 🌱 Learning
 
-- Currently focusing on mastering container orchestration with Kubernetes.
+- Currently focusing on various DevOps tools.
 
 ## 📫 Let's Connect
 
