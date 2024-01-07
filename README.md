@@ -11,7 +11,7 @@ I'm Sanjay, a DevOps enthusiast passionate about automating and optimizing softw
 ## 🔧 Tech Stack
 
 - **Languages:** Python, Shell Scripting, Java
-- **Tools:** Jenkins
+- **Tools:** Jenkins, Docker
 - **Version Control:** Git
 
 ## 🌱 Learning
