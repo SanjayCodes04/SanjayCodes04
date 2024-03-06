@@ -28,9 +28,6 @@ I'm Sanjay, a DevOps enthusiast passionate about automating and optimizing softw
 
 - LinkedIn: https://www.linkedin.com/in/sanjaysadasivam/
 
-## Visitor's Stats:
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 ## 🤝 Open to Collaboration
 
