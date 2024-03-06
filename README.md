@@ -20,9 +20,8 @@ I'm Sanjay, a DevOps enthusiast passionate about automating and optimizing softw
 
 ## My Stats : 
 
-![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjayCodes04&count_private=true&show_icons=true&theme=graywhite)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayCodes04&count_private=true&layout=compact&langs_count=6&theme=graywhite)
+![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjayCodes04&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayCodes04&count_private=true&layout=compact&langs_count=6&theme=radical)
 
 ## 📫 Let's Connect
 
